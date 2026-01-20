@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 2rem;
+            max-width: 800px;
+        }
+        h1 {
+            color: #333;
+        }
+        h2 {
+            margin-top: 1.5rem;
+            color: #555;
+        }
+        p {
+            margin-bottom: 1rem;
+        }
+        a {
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+
+    <p>This app (<strong>Your App Name</strong>) does not collect, store, or process any personal data from users.</p>
+
+    <h2>Use of Apple Services</h2>
+    <p>The app only uses Apple technologies, specifically <strong>StoreKit</strong> for in-app purchases. Only information necessary for Apple to process purchases is handled.</p>
+
+    <h2>Data Sharing</h2>
+    <p>No data is shared with third parties, and no information is used for analytics or advertising purposes.</p>
+
+    <h2>Contact</h2>
+    <p>If you have any questions about privacy, you can contact us at: <a href="mailto:your@email.com">your@email.com</a></p>
+
+    <p>Last updated: January 20, 2026</p>
+</body>
+</html>
